@@ -2,7 +2,7 @@
 
 this is visualization for bubble sort and selection sort algorithms using turtle python library.
 
-## installation
+## Installation
 
 - clone the repository
 - check that turtle and threading libraries are installed
